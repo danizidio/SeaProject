@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GLOBAL_LIGHT
+  - NAVIGATION_DATA
+  - SPAWNPLACE
+  - STRUCTURE
+  - ENEMY
+  - TIMER
+  - BGM
+  - SFX
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 2295896321
+    locked: 0
+  - name: Enemies
+    uniqueID: 2440347529
+    locked: 0
+  - name: Player
+    uniqueID: 1095955141
+    locked: 0
+  - name: CannonBall
+    uniqueID: 512929151
+    locked: 0
+  - name: FX
+    uniqueID: 2849660263
+    locked: 0
+  - name: UI
+    uniqueID: 2878455555
+    locked: 0
